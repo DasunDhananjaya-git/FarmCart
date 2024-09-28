@@ -4,7 +4,7 @@ import farmcartLogo from '../../assets/logo.png'
 
 const CheckEmail = () => {
     const handleResendEmail = () => {
-        // Handle email resend logic here
+        // Handle email resend logic here this
         console.log('Resend email clicked')
     }
 
